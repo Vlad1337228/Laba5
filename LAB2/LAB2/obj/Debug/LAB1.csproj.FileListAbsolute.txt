@@ -1,0 +1,12 @@
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\bin\Debug\LAB1.exe.config
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.csprojResolveAssemblyReference.cache
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.FormMain.resources
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.Cache
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\bin\Debug\LAB1.exe
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\bin\Debug\LAB1.pdb
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.exe
+c:\users\kasimov\documents\visual studio 2013\Projects\LAB1\LAB1\obj\Debug\LAB1.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB1.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB1.pdb

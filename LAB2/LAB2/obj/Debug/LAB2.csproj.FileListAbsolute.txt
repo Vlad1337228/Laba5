@@ -1,0 +1,76 @@
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.csproj.GenerateResource.Cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.FormMain.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.Cache
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба2\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба3\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Student\Documents\Кожевников\FYT_LABA3-main\LAB2\LAB2\obj\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\bin\Debug\LAB2.exe.config
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\bin\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\bin\Debug\LAB2.pdb
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.exe
+D:\вуз\Формальные языки и трансляторы\лаба5\LAB2\LAB2\obj\Debug\LAB2.pdb
